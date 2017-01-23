@@ -1,4 +1,4 @@
-FROM alpine:edge
+FROM iotbr/alpine
 
 MAINTAINER Douglas Zuqueto <douglas.zuqueto@gmail.com>
 
